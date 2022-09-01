@@ -4,3 +4,6 @@ this is your first step!
 
 
 create your own branches
+
+
+git checkout -b branchname
