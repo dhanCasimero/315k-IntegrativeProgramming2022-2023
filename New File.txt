@@ -5,12 +5,15 @@ Velasco
 
 okay master check ko na
 
-
+joshi
 
 may changes ako
 
 
 tig-ulit ko po sir for retention
+<<<<<<< HEAD
 
 
 hala nakalimutan ko yung branch, pero ok na
+=======
+>>>>>>> 7474e86c82d8fb3bbc8f0dfe45d67852b29beb35
