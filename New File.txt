@@ -12,8 +12,14 @@ may changes ako
 
 tig-ulit ko po sir for retention
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 hala nakalimutan ko yung branch, pero ok na
 =======
 >>>>>>> 7474e86c82d8fb3bbc8f0dfe45d67852b29beb35
+=======
+
+hala nakalimutan ko yung branch, pero ok na
+
+>>>>>>> d9f6751b42b06a87af0c09a397a1987488b9b4cc
